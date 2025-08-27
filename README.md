@@ -4,7 +4,7 @@
     <a href="https://www.linkedin.com/in/vbhvgupta">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <a href="https://leetcode.com/u/vbhbvgupta">
+    <a href="https://leetcode.com/u/vbhvgupta">
       <img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Badge"/>
     </a>
     <a href="https://preview--vaibhav-portfolio-hub.lovable.app/">
